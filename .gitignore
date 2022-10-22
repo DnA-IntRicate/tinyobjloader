@@ -4,3 +4,9 @@ build/
 /python/*.egg-info
 /python/.eggs
 /python/tiny_obj_loader.h
+
+*.sln
+*.vcxproj
+*.csproj
+*.filters
+*.user
